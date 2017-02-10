@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="welcome_tips">
+        <item>主人，我在此等候多时了</item>
+        <item>主人，近来一切可好</item>
+        <item>主人，我想死你了</item>
+        <item>欢迎归来，我亲爱的主人</item>
+        <item>我是语音助手，很高兴为您服务</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">VoiceAssistant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send">发送</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

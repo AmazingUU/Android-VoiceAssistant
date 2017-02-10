@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_light.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_light.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_pressed_deep.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_pressed_deep.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_mask_light.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_mask_light.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_deep.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_deep.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_mask_deep.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_mask_deep.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_close_v2.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_close_v2.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\voice.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\voice.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bdspeech_help_pressed_light.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable-hdpi\\bdspeech_help_pressed_light.png"
+    }
+]

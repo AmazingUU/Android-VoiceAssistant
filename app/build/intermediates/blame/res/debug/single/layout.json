@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rightitem.xml",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\layout\\rightitem.xml"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bdspeech_digital_layout.xml",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\layout\\bdspeech_digital_layout.xml"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leftitem.xml",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\layout\\leftitem.xml"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_no_network.xml",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\layout\\activity_no_network.xml"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

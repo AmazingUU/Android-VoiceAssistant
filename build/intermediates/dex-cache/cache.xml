@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\androidstudioproject\TuLingRob\app\libs\galaxy-v2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="382fc20085522cd3758c7f500151a7c6ef6604d3">
+        <dex dex="D:\androidstudioproject\TuLingRob\app\build\intermediates\pre-dexed\debug\galaxy-v2.0_90d61274ee257cffba72c12e1f34632255e2fef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidstudioproject\TuLingRob\app\libs\com.baidu.tts_2.2.9.20161020_154fa02_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23ec3c5bfb359fe9950bf23c0da3d6c3bbaabb77">
+        <dex dex="D:\androidstudioproject\TuLingRob\app\build\intermediates\pre-dexed\debug\com.baidu.tts_2.2.9.20161020_154fa02_release_5ffe5f01ede94c6cb63e8ce64f95a4291cb5b2f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidstudioproject\TuLingRob\app\libs\VoiceRecognition-2.1.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6f1c929343ec741b10a82084c33ea4bfa5c9306">
+        <dex dex="D:\androidstudioproject\TuLingRob\app\build\intermediates\pre-dexed\debug\VoiceRecognition-2.1.20_d9fa2d6ef792a5208febb13b43e3a3c08844b293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GithubMy\Android-VoiceAssistant\app\libs\com.baidu.tts_2.2.9.20161020_154fa02_release.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23ec3c5bfb359fe9950bf23c0da3d6c3bbaabb77">
+        <dex dex="D:\GithubMy\Android-VoiceAssistant\app\build\intermediates\pre-dexed\debug\com.baidu.tts_2.2.9.20161020_154fa02_release_875017527a57a114e23efbf79b73ffe21be69672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GithubMy\Android-VoiceAssistant\app\libs\VoiceRecognition-2.1.20.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6f1c929343ec741b10a82084c33ea4bfa5c9306">
+        <dex dex="D:\GithubMy\Android-VoiceAssistant\app\build\intermediates\pre-dexed\debug\VoiceRecognition-2.1.20_cc3875d71384d9b57286e0ad6d87f68a582cef63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GithubMy\Android-VoiceAssistant\app\libs\galaxy-v2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="382fc20085522cd3758c7f500151a7c6ef6604d3">
+        <dex dex="D:\GithubMy\Android-VoiceAssistant\app\build\intermediates\pre-dexed\debug\galaxy-v2.0_ccc8db1b4220dab94bd14f0af00ac68982674930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidstudiosdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\androidstudioproject\TuLingRob\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_c29aa47b089c177ba1324019f0fcc5a478526173.jar" />
+    </item>
+
+</items>

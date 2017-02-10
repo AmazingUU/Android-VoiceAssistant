@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bd_asr_popup_bg.xml",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bd_asr_popup_bg.xml"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_redlight_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_redlight_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greenlight_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_greenlight_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing_deep.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing_deep.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_deep_bg.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_digital_deep_bg.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_recognizing.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_recognizing.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangedeep_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_orangedeep_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_deep_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_left_deep_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_redlight_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_redlight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_greendeep_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_greendeep_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_orangelight_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_orangelight_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_left_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_digital_bg.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_digital_bg.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greenlight_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_greenlight_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_reddeep_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_reddeep_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_reddeep_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_reddeep_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_right_greendeep_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_right_greendeep_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangedeep_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangedeep_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_orangelight_pressed.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_orangelight_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_left_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_left_normal.9.png"
+    },
+    {
+        "merged": "D:\\GithubMy\\Android-VoiceAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bdspeech_btn_normal.9.png",
+        "source": "D:\\GithubMy\\Android-VoiceAssistant\\app\\src\\main\\res\\drawable\\bdspeech_btn_normal.9.png"
+    }
+]
