@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.tulingdemo"
-        minSdkVersion 14
+        minSdkVersion 16
         targetSdkVersion 22
     }
 
@@ -16,10 +16,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:18.0.0'
     compile files('libs/com.baidu.tts_2.2.9.20161020_154fa02_release.jar')
     compile files('libs/galaxy-v2.0.jar')
     compile files('libs/VoiceRecognition-2.1.20.jar')

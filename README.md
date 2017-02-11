@@ -13,7 +13,8 @@
 <img src="" width = "300" height = "500" alt="VoiceAssisant" align=left /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 注意事项
-项目里的百度语音的APPId、APPKey、SecretKey和图灵机器人的APIKey只是为了让项目正常运行，实际使用过程中请替换成自己的实际值。
+1. 项目里的百度语音的APPId、APPKey、SecretKey和图灵机器人的APIKey只是为了让项目正常运行，实际使用过程中请替换成自己的实际值。
+2. 百度语音识别提供的jniLibs里的so库是arm版，没有x86版，所以请在真机运行，模拟器上无法运行
 
 ## 后续
 后面有时间的话会加入语音唤醒的功能，使用户即使在桌面也可以随时唤出语音助手

@@ -307,7 +307,7 @@ public class MainActivity extends Activity implements HttpGetDataListener,
 
     //获取通信录中所有的联系人
     private List<ContactInfo> getContactLists(Context context) {
-        List<ContactInfo> lists = new ArrayList<>();
+        List<ContactInfo> lists = new ArrayList<ContactInfo>();
         Cursor cursor = context.getContentResolver().query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI,
                 null, null, null, null);
         //moveToNext方法返回的是一个boolean类型的数据

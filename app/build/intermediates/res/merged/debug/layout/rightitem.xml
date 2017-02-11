@@ -7,12 +7,12 @@
 
     <TextView
         android:id="@+id/tv"
-        android:textSize="30dp"
+        android:textSize="20dp"
         android:layout_marginTop="10dp"
         android:layout_marginRight="10dp"
+        android:layout_marginLeft="50dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:gravity="center" />
+        android:layout_alignParentRight="true" />
 
 </RelativeLayout>
