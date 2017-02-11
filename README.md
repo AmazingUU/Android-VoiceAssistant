@@ -11,6 +11,7 @@
 
 ## 效果图
 <img src="https://github.com/AmazingUU/Android-VoiceAssistant/raw/master/mdPicRes/VoiceAssistant.gif" width = "300" height = "500" alt="VoiceAssisant" align=left /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+### 注：效果图是用华为荣耀2平板录制的，不支持SIM卡，没有打电话和短信的效果。但是我是用三星S3测试的，可以正常实现打电话和发短信的功能。因为三星S3不知道为什么不能用Vysor将手机画面显示在电脑上，所以我只好用华为荣耀2平板录制了，敬请见谅。
 
 ## 注意事项
 1. 项目里的百度语音的APPId、APPKey、SecretKey和图灵机器人的APIKey只是为了让项目正常运行，实际使用过程中请替换成自己的实际值。
