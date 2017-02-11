@@ -10,7 +10,7 @@
 5. 聊天
 
 ## 效果图
-<img src="" width = "300" height = "500" alt="VoiceAssisant" align=left /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="https://github.com/AmazingUU/Android-VoiceAssistant/raw/master/mdPicRes/VoiceAssistant.gif" width = "300" height = "500" alt="VoiceAssisant" align=left /><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 注意事项
 1. 项目里的百度语音的APPId、APPKey、SecretKey和图灵机器人的APIKey只是为了让项目正常运行，实际使用过程中请替换成自己的实际值。
