@@ -176,7 +176,7 @@ public class MainActivity extends Activity implements HttpGetDataListener,
 
             //如果是发送的短信内容，必须写在最前面，防止短信内容里面出现关键词
             if (isMessage){
-                sendContent(res);
+                sendMessage(res);
                 isMessage=false;
                 return;
             }
@@ -198,7 +198,7 @@ public class MainActivity extends Activity implements HttpGetDataListener,
 
             //关键词"发短信"
             if (res.contains("发短信")){
-                sendToWho();
+                getSendMsgContactInfo();
                 return;
             }
 
@@ -228,7 +228,7 @@ public class MainActivity extends Activity implements HttpGetDataListener,
     }
 
     //发送短信的内容
-    private void sendContent(String content) {
+    private void sendMessage(String content) {
         if (msg_number==null){
             return;
         }
@@ -244,7 +244,7 @@ public class MainActivity extends Activity implements HttpGetDataListener,
     }
 
     //发送短信的联系人信息
-    private void sendToWho() {
+    private void getSendMsgContactInfo() {
         List<ContactInfo> contactLists = getContactLists(this);
         if (contactLists.isEmpty()){
             refresh("通讯录为空",RECEIVER);
